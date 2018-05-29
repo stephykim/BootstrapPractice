@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+	display: inline-block;
+	padding: 0;
+}
+
+.top-buffer {
+	margin-top: 50px;
+}
+
+.table-responsive {
+	margin-left: 15%;
+	margin-right: 15%;
+}
